@@ -72,8 +72,9 @@ Debugging Lambda errors in CloudWatch
 Integrating AWS services end-to-end
 
 💻 Author
-Ayushi Jaiswal
 ---
+Ayushi Jaiswal
+
 
 
 
