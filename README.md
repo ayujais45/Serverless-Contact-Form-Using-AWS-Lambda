@@ -47,16 +47,16 @@ http://localhost:8000
  ![Screenshot (228)](https://github.com/user-attachments/assets/0b780f74-fb2f-4de5-9b3b-717f643c0013)
    
 
-3. Lambda console with deployed code
+2. Lambda console with deployed code
 
 ![Screenshot (227)](https://github.com/user-attachments/assets/b4e18d03-d8e3-4880-b7fb-c8d9deb1766f)
 
 
-4. DynamoDB table with data
+3. DynamoDB table with data
 
 ![Screenshot (234)](https://github.com/user-attachments/assets/bedebde1-de20-4f5b-a89a-3a8c1e0d7e3e)
 
-5. Browser form screenshot
+4. Browser form screenshot
 
 ![Screenshot 2025-06-30 215507](https://github.com/user-attachments/assets/e0eaebce-b26b-41d8-a2bc-b337f8ae6195)
 
